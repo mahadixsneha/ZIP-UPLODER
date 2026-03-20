@@ -15,19 +15,33 @@
 
 ---
 
-```bash
-$ python github_uploader.py
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=00FF41&center=true&vCenter=true&repeat=false&width=700&lines=%E2%95%94%E2%95%A6%E2%95%97%E2%94%AC%E2%94%80%E2%95%97%E2%95%94%E2%95%A6%E2%95%97%E2%94%8C%E2%94%80%E2%94%90%E2%94%AC++%E2%94%AC%E2%94%AC%E2%94%AC++%E2%95%94%E2%95%90%E2%95%97%E2%94%80%E2%94%90+%E2%94%AC%E2%94%98" alt="logo-l1"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=1aff6b&center=true&vCenter=true&repeat=false&width=700&lines=%E2%95%A0%E2%95%A3%E2%95%A3%E2%94%9C%E2%94%AC%E2%94%98+%E2%95%A0%E2%95%A3%E%94%9C%E2%94%A4+%E2%94%94%E2%94%90%E2%94%8C%E2%94%98%E2%94%82%E2%94%82++%E2%95%A0%E2%95%A3+%E2%94%8C%E2%94%B4%E2%94%AC%E2%94%98" alt="logo-l2"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=57ff90&center=true&vCenter=true&repeat=false&width=700&lines=%E2%95%A9+%E2%95%A9%E2%94%B4%E2%94%94%E2%94%80%E2%95%90%E2%95%A9%E2%95%9D%E2%94%94%E2%94%80%E2%94%98+%E2%94%94%E2%94%98+%E2%94%B4%E2%94%B4%E2%94%80%E2%94%98%E2%95%9A%E2%95%90%E2%95%9D%E2%94%B4+%E2%94%94%E2%94%80" alt="logo-l3"/>
+
+</div>
+
+<div align="center">
 
 ```
   ╔╦╗┬─┐╔╦╗┌─┐┬  ┬┬┬  ╔═╗─┐ ┬
   ║║║├┬┘ ║║├┤ └┐┌┘││  ║╣ ┌┴┬┘
   ╩ ╩┴└─═╩╝└─┘ └┘ ┴┴─┘╚═╝┴ └─
+```
 
-  ● TOOL    : [★] GitHub Auto Repo Uploader
-  ● DEV     : [★] MrDevilEx
-  ● FUNCTION: [★] ZIP → Unzip → Repo → Push
-  ● SESSION : [★] 1 Hour Auto Expiry
+[![Repo](https://img.shields.io/badge/📁_Repository-ZIP--UPLODER-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mahadixsneha/ZIP-UPLODER)
+[![Clone](https://img.shields.io/badge/git_clone-ZIP--UPLODER-1a8a1a?style=for-the-badge&logo=git&logoColor=white)](https://github.com/mahadixsneha/ZIP-UPLODER.git)
+
+</div>
+
+```bash
+$ git clone https://github.com/mahadixsneha/ZIP-UPLODER.git
+$ cd ZIP-UPLODER
+$ python github_uploader.py
 ```
 
 ---
