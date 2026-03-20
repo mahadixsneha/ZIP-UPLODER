@@ -71,12 +71,18 @@ pip install requests
 ## `> ./usage --help`
 
 ### Step 1 — Get GitHub Token
+
+> 🔗 **Direct Link:** [https://github.com/settings/tokens/new](https://github.com/settings/tokens/new)
+
 ```
 GitHub → Settings → Developer Settings
 → Personal Access Tokens → Tokens (classic)
-→ Generate new token
+→ Generate new token  ← অথবা উপরের link এ click করো
 → Scopes: ✅ repo (full control)
+→ Generate token → Copy করো (একবারই দেখাবে!)
 ```
+
+[![Get Token](https://img.shields.io/badge/🔑_Get_GitHub_Token-Click_Here-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/settings/tokens/new)
 
 ### Step 2 — Run the tool
 ```bash
